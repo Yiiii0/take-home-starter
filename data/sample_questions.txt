@@ -4,5 +4,9 @@ Is the person at maximum medical improvement?
 If no, what treatment is being recommended?
 What is the patient's work status?
 Are there any medical restrictions suggested?
-**For the QME only:** Build a timeline of the events described in document
+## Bonus Challenges- If you have extra time, choose any of the following to implement. No worries if you don't finish it, we're more interested in your approach
+Citations for your answers. Not just references to text chunks, but references to specific pages (or ideally coordinates!) in the original document
+**For the QME (long document) only:** Build a timeline of the events described in document
+Can you find any use-cases for agent tool use? Can you implement one?
+Can you rank pages in the document by how relevant they are to the questions being asked?
 Surprise us. What else can you discover about this document that someone might miss if they were reading it manually? Any other tools or technologies that you want to show off? If you have extra time, feel free to flex.
