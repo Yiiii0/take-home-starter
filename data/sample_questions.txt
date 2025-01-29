@@ -5,3 +5,4 @@ If no, what treatment is being recommended?
 What is the patient's work status?
 Are there any medical restrictions suggested?
 **For the QME only:** Build a timeline of the events described in document
+Surprise us. What else can you discover about this document that someone might miss if they were reading it manually? Any other tools or technologies that you want to show off? If you have extra time, feel free to flex.
