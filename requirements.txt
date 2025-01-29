@@ -1,0 +1,5 @@
+pytesseract
+easyocr
+openai
+pdf2image
+python-dotenv
