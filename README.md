@@ -91,6 +91,131 @@ This project implements a pipeline that processes medical-legal documents throug
 The pipeline successfully handles both single documents and batches of documents, with built-in support for large files and error recovery.
 Supported simple RAG functionality.
 
+## Usage
+
+### Setup
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+2. Configure environment:
+   - Copy `.env.example` to `.env`
+   - Add your OpenAI API key to `.env`:
+     ```
+     OPENAI_API_KEY=your_api_key_here
+     ```
+
+### Running the Pipeline
+
+#### Single Document Processing
+```bash
+python src/pipeline.py path/to/document.pdf path/to/questions.txt [output_dir]
+```
+
+Example:
+```bash
+python src/pipeline.py data/qme_demo.pdf data/sample_questions.txt test_output
+```
+
+#### Batch Processing (Multiple Documents)
+```bash
+python src/pipeline.py path/to/document_folder/ path/to/questions.txt [output_dir]
+```
+
+Example:
+```bash
+python src/pipeline.py data/ data/sample_questions.txt test_output
+```
+
+### Understanding Outputs
+
+The pipeline generates several output files in the specified output directory:
+
+1. `all_results.json` - Complete results in JSON format:
+   ```json
+   [
+     {
+       "document_id": "qme_demo",
+       "document_info": {
+         "pages": 10,
+         "failed_pages": [],
+         "avg_confidence": 85.6
+       },
+       "results": [
+         {
+           "question": "What is the diagnosis?",
+           "answer": "..."
+         }
+       ]
+     }
+   ]
+   ```
+
+2. `all_results.txt` - Human-readable results:
+   ```
+   Document: qme_demo
+   =====================================
+   
+   Question: What is the diagnosis?
+   -------------------------------------
+   Answer: ...
+   -------------------------------------
+   ```
+
+3. `combined_analysis.txt` - Cross-document analysis (for multiple documents):
+   ```
+   CROSS-DOCUMENT ANALYSIS
+   =====================================
+   
+   Question: What is the diagnosis?
+   -------------------------------------
+   Individual Document Answers:
+   Document qme_demo: ...
+   Document IMG_3696: ...
+   
+   Synthesized Answer:
+   ...
+   ```
+
+4. Document-specific outputs (in document_store/[doc_id]/):
+   - `raw_text.txt` - Original OCR output
+   - `cleaned_text.txt` - Processed text
+   - `pages.json` - Page-level OCR results
+   - `failed_pages.txt` - List of problematic pages
+
+### Processing Status
+
+The pipeline provides real-time status updates:
+- OCR progress for each document
+- Question processing progress
+- Error notifications
+- Processing summary at completion
+
+Example summary output:
+```
+Processing Summary:
+----------------------------------------
+Documents processed: 2
+qme_demo:
+  Pages: 10
+  Questions answered: 6/6
+IMG_3696:
+  Pages: 1
+  Questions answered: 5/6
+----------------------------------------
+Detailed results saved in: test_output
+```
+
+### Error Handling
+
+The pipeline handles several types of errors:
+1. OCR failures - Retries with different settings
+2. Low confidence results - Marks for human review
+3. Missing information - Clear "not found" responses
+4. API timeouts - Automatic retries
+5. File access issues - Detailed error messages
+
 ## Implementation Process
 
 ### 1. Document Management System
