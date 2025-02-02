@@ -1,0 +1,79 @@
+{
+  "IMG_3695": {
+    "path": "data\\IMG_3695.pdf",
+    "pages": 1,
+    "failed_pages": [
+      1
+    ],
+    "extracted_info": {},
+    "processed_date": "1738517240.2273026",
+    "avg_confidence": 12.181818181818182
+  },
+  "IMG_3696": {
+    "path": "data\\IMG_3696.pdf",
+    "pages": 1,
+    "failed_pages": [
+      1
+    ],
+    "extracted_info": {
+      "medical_terms": [
+        "injury"
+      ]
+    },
+    "processed_date": "1738517240.231317",
+    "avg_confidence": 13.966666666666667
+  },
+  "IMG_3697": {
+    "path": "data\\IMG_3697.pdf",
+    "pages": 1,
+    "failed_pages": [
+      1
+    ],
+    "extracted_info": {
+      "medical_terms": [
+        "injury"
+      ]
+    },
+    "processed_date": "1738517240.2353094",
+    "avg_confidence": 10.68125
+  },
+  "IMG_3698": {
+    "path": "data\\IMG_3698.pdf",
+    "pages": 1,
+    "failed_pages": [
+      1
+    ],
+    "extracted_info": {},
+    "processed_date": "1738517240.2393177",
+    "avg_confidence": 7.6875
+  },
+  "IMG_3699": {
+    "path": "data\\IMG_3699.pdf",
+    "pages": 1,
+    "failed_pages": [
+      1
+    ],
+    "extracted_info": {},
+    "processed_date": "1738517240.2438133",
+    "avg_confidence": 10.694444444444445
+  },
+  "qme_demo": {
+    "path": "data\\qme_demo.pdf",
+    "pages": 10,
+    "failed_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "extracted_info": {},
+    "processed_date": "1738517240.2528284",
+    "avg_confidence": 2.9513078149920253
+  }
+}

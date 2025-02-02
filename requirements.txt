@@ -3,3 +3,7 @@ easyocr
 openai
 pdf2image
 python-dotenv
+opencv-python
+numpy
+Pillow
+tqdm

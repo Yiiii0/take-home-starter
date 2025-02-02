@@ -1,0 +1,62 @@
+[
+  {
+    "page_number": 1,
+    "text": "",
+    "confidence": -1.0,
+    "source": "tesseract"
+  },
+  {
+    "page_number": 2,
+    "text": "CODE Description\n\nML201-95-93 ComprehensiveMedical-LegalEvaluation\n\nMLPRR RecordReview339-200139pages",
+    "confidence": 18.772727272727273,
+    "source": "tesseract"
+  },
+  {
+    "page_number": 3,
+    "text": "",
+    "confidence": -1.0,
+    "source": "tesseract"
+  },
+  {
+    "page_number": 4,
+    "text": "TemporaryTotalDisability",
+    "confidence": -0.8,
+    "source": "tesseract"
+  },
+  {
+    "page_number": 5,
+    "text": "LeftKnee,30yearsago,WhiteHouseMoody's",
+    "confidence": -0.8,
+    "source": "tesseract"
+  },
+  {
+    "page_number": 6,
+    "text": "",
+    "confidence": -1.0,
+    "source": "tesseract"
+  },
+  {
+    "page_number": 7,
+    "text": "",
+    "confidence": -1.0,
+    "source": "tesseract"
+  },
+  {
+    "page_number": 8,
+    "text": "",
+    "confidence": -1.0,
+    "source": "tesseract"
+  },
+  {
+    "page_number": 9,
+    "text": "1O",
+    "confidence": -0.8,
+    "source": "tesseract"
+  },
+  {
+    "page_number": 10,
+    "text": "cetvJciJpinijRQNI\n\nN'otmal\n\nExtension\n\nLeftRotation\nRightRotation\nLeftLateralBend\n\nRightLateralBend\n\n60Q/60Q/60Q\n50Q/S0Q/50Q\n60Q/62Q/62Q\n58Q/60Q/62Q\n45Q/45Q/45Q\n45Q/45Q/45Q\n\n60Q\n50Q\nSQQ\n80Q\n45Q\n45Q",
+    "confidence": 18.140350877192983,
+    "source": "tesseract"
+  }
+]

@@ -1,0 +1,47 @@
+
+
+CODE Description
+
+ML201-95-93 ComprehensiveMedical-LegalEvaluation
+
+MLPRR RecordReview339-200139pages
+
+
+
+TemporaryTotalDisability
+
+LeftKnee,30yearsago,WhiteHouseMoody's
+
+
+
+
+
+
+
+1O
+
+cetvJciJpinijRQNI
+
+N'otmal
+
+Extension
+
+LeftRotation
+RightRotation
+LeftLateralBend
+
+RightLateralBend
+
+60Q/60Q/60Q
+50Q/S0Q/50Q
+60Q/62Q/62Q
+58Q/60Q/62Q
+45Q/45Q/45Q
+45Q/45Q/45Q
+
+60Q
+50Q
+SQQ
+80Q
+45Q
+45Q
