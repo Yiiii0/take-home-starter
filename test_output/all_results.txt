@@ -9,7 +9,7 @@ The diagnosis is a rotator cuff injury to the left shoulder.
 
 Question: What is the causation?
 --------------------------------------------------------------------------------
-The causation identified in the context is a specific acute, macrotraumatic mechanical injury of February 9, 2021, causing what appears to be a rotator cuff injury to the left shoulder. This injury arose from and occurred during the injured worker's usual and customary employment at Alton Management Corporation while awkwardly manipulating a lawnmower. Additionally, the claims for cumulative injuries to the neck, both shoulders, both wrists, mid-back, and lower back are consistent with repetitive arduous physical labor, resulting in wear and tear on the soft tissues and articulations over the span of the worker's employment from April 1, 1998, through February 9, 2021.
+The causation identified in the document is that the injured worker sustained a specific acute, macrotraumatic, mechanical injury to the left shoulder on February 9, 2021, while awkwardly manipulating a lawnmower during his usual and customary employment at Alton Management Corporation. This injury is associated with the Arising Out of Employment (AOE) doctrine. Additionally, the document suggests that cumulative injuries to the neck, both shoulders, both wrists, mid-back, and lower back are consistent with repetitive arduous physical labor over the course of his employment from April 1, 1998, through February 9, 2021, resulting in wear and tear on the soft tissues and articulations.
 --------------------------------------------------------------------------------
 
 Question: Is the person at maximum medical improvement?
@@ -43,7 +43,7 @@ Information not found in the provided context.
 
 Question: What is the causation?
 --------------------------------------------------------------------------------
-The causation suggested in the context is that the lifting upward of the handle of the lawnmower and awkwardly pivoting to the right with the right arm may have contributed to the injuries sustained. Additionally, the temporal onset of traumatic injuries involving the left shoulder girdle appears to have been immediate, supporting a cumulative musculoskeletal injury, which is viewed as an "aggravation" injury in the context of reasonable medical probability.
+The causation suggested in the context is that the lifting upward of the handle of the lawnmower and awkwardly pivoting to the right may have contributed to the injuries sustained by the injured worker. Additionally, it is noted that the temporal onset of traumatic injuries involving the left shoulder girdle appears to have been immediate, supporting the notion of acute musculoskeletal injury, and it is more likely than not that these injuries were not superimposed upon pre-existing tissue degeneration at the left shoulder girdle, representing an "aggravation" injury.
 --------------------------------------------------------------------------------
 
 Question: Is the person at maximum medical improvement?
@@ -92,7 +92,7 @@ Information not found in the provided context.
 
 Question: What is the patient's work status?
 --------------------------------------------------------------------------------
-Mr. Grande is not working. He claims that his physical limitations prevent him from returning to the laborious sector.
+The patient's work status is that he claims his physical limitations prevent him from returning to the laborious setting.
 --------------------------------------------------------------------------------
 
 Question: Are there any medical restrictions suggested?
@@ -135,50 +135,61 @@ Yes, there are several medical restrictions suggested in the provided context.
 
 For **Clerical/Modified Work** related to neck and upper back pathologies, the restrictions include:
 - No lifting over shoulder height.
-- Lifting to shoulder level not more than 5 lbs (2 kg) up to two times per hour.
+- Lifting to the level of shoulder not more than 5 lbs (2 kg) up to two times per hour.
 - Standing or walking with a 5-minute break at least every 20 minutes.
 - Sitting with a 5-minute break every 30 minutes (using an operator headset if extended phone operation).
 - No extremes of motion including extension or flexion.
 - No extremes of twisting or lateral rotation.
 - No climbing ladders.
-- Driving a car only up to 2 hours per day.
-- Possible use of a cervical collar with change of position and stretching every 30 minutes.
+- Driving a car only up to 2 hours/day.
+- Possible use of a cervical collar with a change of position and stretching every 30 minutes.
 - Modify workstation or position to eliminate lifting away from the body or using twisting motions.
 
-For **Manual Work**, the restrictions include:
-- Lifting over shoulder height not more than 25 lbs (11 kg) up to 5 times per hour.
-- Lifting to shoulder level up to 30 lbs (14 kg) not more than 15 times per hour.
+For **Manual Work**:
+- Lifting over shoulder not more than 25 lbs (11 kg) up to 5 times/hour.
+- Lifting to the level of shoulder not more than 30 lbs (14 kg) up to 15 times/hour.
 - Standing or walking with a 10-minute break at least every 1-2 hours.
 - Sitting with a 10-minute break every 1-2 hours.
-- Extremes of flexion or extension allowed up to 20 times per hour.
-- Extremes of twisting allowed up to 16 times per hour.
-- Climbing ladders allowed up to 40 rungs, 6 times per hour.
+- Extremes of flexion or extension allowed up to 20 times/hour.
+- Extremes of twisting allowed up to 16 times/hour.
+- Climbing ladders allowed up to 40 rungs times/hour.
 - Driving a car or light truck up to a full workday.
-- Driving a heavy truck up to 4 hours per day.
+- Driving a heavy truck up to 4 hours/day.
 
-For **Clerical/Modified Work** related to lower back/pelvic conditions, the restrictions include:
-- Lifting with knees (with a straight back, no stooping) not more than 5 lbs (2 kg) up to 3 times per hour.
-- Squatting up to 4 times per hour.
+For **Clerical/Modified Work** related to lower back/pelvic conditions:
+- Lifting with knees (with a straight back, no stooping) not more than 5 lbs (2 kg) up to 3 times/hour.
+- Squatting up to 4 times/hour.
 - Standing or walking with a 5-minute break at least every 20 minutes.
 - Sitting with a 5-minute break every 30 minutes.
 - No extremes of extension or flexion.
 - No extremes of twisting.
 - No climbing ladders.
-- Driving a car only up to 2 hours per day.
+- Driving a car only up to 2 hours/day.
 
-For **Modified Work** related to forearm, wrist, and hand conditions, the restrictions include:
-- Repetitive motion activities (with or without splint) not more than 4 times per hour.
-- Repetitive keying up to 15 keystrokes/min not more than 2 hours per day.
+For **Manual Work**:
+- Lifting with knees (with a straight back) not more than 25 lbs (11 kg) up to 15 times/hour.
+- Squatting up to 16 times/hour.
+- Standing or walking with a 10-minute break at least every 1-2 hours.
+- Sitting with a 10-minute break every 1-2 hours.
+- Extremes of flexion or extension allowed up to 12 times/hour.
+- Extremes of twisting allowed up to 16 times/hour.
+- Climbing ladders allowed up to 25 rungs, 6 times/hour.
+- Driving a car or light truck up to a full workday.
+- Driving a heavy truck up to 4 hours/day.
+
+For **Modified Work** related to forearm, wrist, and hand conditions:
+- Repetitive motion activities (with or without splint) not more than 4 times/hour.
+- Repetitive keying up to 15 keystrokes/min not more than 2 hours/day.
 - Gripping and using light tools (pens, scissors, etc.) with a 5-minute break at least every 20 minutes.
 - No pinching.
-- Driving a car up to 2 hours per day.
-- Light work up to 5 lbs (2 kg) three times per hour.
+- Driving a car up to 2 hours/day.
+- Light work up to 5 lbs (2 kg) three times/hour.
 - Avoidance of prolonged periods in wrist flexion or extension.
 
-For **Regular Work**, the restrictions include:
-- Repetitive motion activities not more than 28 times per hour.
-- Repetitive keying up to 45 keystrokes/min plus per day.
-- Gripping and using moderate tools (pliers, etc.).
+For **Regular Work** (if not causing or aggravating disability):
+- Repetitive motion activities not more than 28 times/hour.
+- Repetitive keying up to 45 keystrokes/min plus 8 hours/day.
+- Gripping and using moderate tools.
 
 These restrictions are designed to accommodate individuals with disabling conditions in the specified areas.
 --------------------------------------------------------------------------------
@@ -206,13 +217,16 @@ Question: If no, what treatment is being recommended?
 --------------------------------------------------------------------------------
 The treatment being recommended includes:
 
-1. **Ongoing use of medications** such as anti-inflammatory agents, muscle relaxants, neuromodulators, and potentially narcotic analgesics, administered through a medical physician skilled in chronic pain management.
-2. **Acupuncture for chronic pain management**, which is considered medically reasonable and non-invasive.
-3. **Corticosteroid injections (CSI) and/or platelet-rich plasma (PRP) injections** at the left and/or right wrist, left and/or right elbow, or shoulder, to be administered consistent with evidence-based medicine standards.
-4. **Spinal injection protocols** that would follow evidence-based medicine guidelines.
-5. **Lumbar spine plain X-rays** to determine if suspected underlying skeletal pathologies exist.
-6. **Revision left shoulder re-surgery** should symptoms worsen and become increasingly debilitating, determined by an orthopedic shoulder surgeon.
-7. Addressing compensatory right shoulder pain, which may ultimately require further intervention.
+1. Limited supportive medical treatment under the guidance of a treating medical physician, consistent with evidence-based medicine.
+2. Ongoing use of medications such as anti-inflammatory agents, muscle relaxants, neuromodulators, and potentially narcotic analgesics, administered through a medical physician skilled in chronic pain management.
+3. Acupuncture for chronic pain management, deemed medically reasonable and non-invasive.
+4. Corticosteroid injections (CSI) and/or platelet-rich plasma (PRP) injections at the left and/or right wrist, left and/or right elbow, or shoulder, administered consistent with evidence-based medicine (EBM) standards of care guidelines.
+5. Spinal injection protocols following EBM guidelines.
+6. Lumbar spine plain X-rays to determine suspected underlying skeletal pathologies contributing to low back pain (LBP).
+7. Chiropractic treatments following EBM, with spinal manipulation at/over C3 to 4-5 to 6 being strongly contraindicated, but impulses being reasonable at these levels.
+8. A provision for revision left shoulder re-surgery should symptoms worsen and become increasingly debilitating, determined by an orthopedic shoulder surgeon. 
+
+Additionally, further evaluation for compensatory right shoulder pain, unresponsive to conservative care, is also recommended.
 --------------------------------------------------------------------------------
 
 Question: What is the patient's work status?
@@ -222,7 +236,7 @@ Information not found in the provided context.
 
 Question: Are there any medical restrictions suggested?
 --------------------------------------------------------------------------------
-Yes, there are medical restrictions suggested in the context. Specifically, spinal manipulation at/over C3 to 4-5 to 6 is strongly contraindicated. Additionally, the ongoing use of medications should be administered through a medical physician skilled in chronic pain management, indicating a restriction on self-administration of these medications.
+Yes, there are medical restrictions suggested in the context. Specifically, it is stated that "spinal manipulation at/over C3 to 4-5 to 6 is strongly contraindicated." This indicates a restriction on performing spinal manipulation in that specific cervical region. Additionally, the context implies that further evaluation and potential surgical intervention for the right shoulder pain may be necessary if conservative care is unresponsive, suggesting a cautious approach to treatment until further assessments are made.
 --------------------------------------------------------------------------------
 
 

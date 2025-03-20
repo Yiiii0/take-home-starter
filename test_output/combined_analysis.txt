@@ -2,90 +2,6 @@
 CROSS-DOCUMENT ANALYSIS
 ================================================================================
 
-Question: What is the patient's work status?
---------------------------------------------------------------------------------
-Individual Document Answers:
-
-Document IMG_3695:
-Information not found in the provided context.
-
-Document IMG_3696:
-Information not found in the provided context.
-
-Document IMG_3697:
-Mr. Grande is not working. He claims that his physical limitations prevent him from returning to the laborious sector.
-
-Document IMG_3698:
-Information not found in the provided context.
-
-Document IMG_3699:
-Information not found in the provided context.
-
-Document qme_demo:
-Information not found in the provided context.
-
-Synthesized Answer:
-1. A comprehensive answer that considers all documents:
-Based on Document IMG_3697, Mr. Grande is currently not working. He attributes his inability to return to work to physical limitations that prevent him from engaging in laborious tasks.
-
-2. Note any conflicts or discrepancies between documents:
-There are no conflicts or discrepancies noted among the documents, as only Document IMG_3697 provides relevant information regarding the patient's work status, while the other documents contain no information.
-
-3. Indicate confidence level in the synthesized answer:
-Confidence level: High
-
-Synthesized Answer:
-Mr. Grande is not working due to physical limitations that prevent him from returning to the laborious sector.
-================================================================================
-
-Question: If no, what treatment is being recommended?
---------------------------------------------------------------------------------
-Individual Document Answers:
-
-Document IMG_3695:
-Information not found in the provided context.
-
-Document IMG_3696:
-Information not found in the provided context.
-
-Document IMG_3697:
-Information not found in the provided context.
-
-Document IMG_3698:
-Information not found in the provided context.
-
-Document IMG_3699:
-The treatment being recommended includes:
-
-1. **Ongoing use of medications** such as anti-inflammatory agents, muscle relaxants, neuromodulators, and potentially narcotic analgesics, administered through a medical physician skilled in chronic pain management.
-2. **Acupuncture for chronic pain management**, which is considered medically reasonable and non-invasive.
-3. **Corticosteroid injections (CSI) and/or platelet-rich plasma (PRP) injections** at the left and/or right wrist, left and/or right elbow, or shoulder, to be administered consistent with evidence-based medicine standards.
-4. **Spinal injection protocols** that would follow evidence-based medicine guidelines.
-5. **Lumbar spine plain X-rays** to determine if suspected underlying skeletal pathologies exist.
-6. **Revision left shoulder re-surgery** should symptoms worsen and become increasingly debilitating, determined by an orthopedic shoulder surgeon.
-7. Addressing compensatory right shoulder pain, which may ultimately require further intervention.
-
-Document qme_demo:
-Information not found in the provided context.
-
-Synthesized Answer:
-1. A comprehensive answer that considers all documents:
-The treatment being recommended, as detailed in Document IMG_3699, includes:
-   - Ongoing use of medications such as anti-inflammatory agents, muscle relaxants, neuromodulators, and potentially narcotic analgesics, to be administered by a physician skilled in chronic pain management.
-   - Acupuncture for chronic pain management, deemed medically reasonable and non-invasive.
-   - Corticosteroid injections (CSI) and/or platelet-rich plasma (PRP) injections at the left and/or right wrist, left and/or right elbow, or shoulder, following evidence-based medicine standards.
-   - Spinal injection protocols adhering to evidence-based medicine guidelines.
-   - Lumbar spine plain X-rays to assess for any suspected underlying skeletal pathologies.
-   - Consideration of revision left shoulder re-surgery if symptoms worsen and become increasingly debilitating, as determined by an orthopedic shoulder surgeon.
-   - Addressing compensatory right shoulder pain, which may require further intervention.
-
-2. Note any conflicts or discrepancies between documents:
-There are no conflicts or discrepancies noted between the documents, as only Document IMG_3699 provides specific treatment recommendations. The other documents (IMG_3695, IMG_3696, IMG_3697, IMG_3698, and qme_demo) state that information is not found in the provided context.
-
-3. Indicate confidence level in the synthesized answer:
-Confidence Level: High. The synthesized answer is based solely on the detailed information provided in Document IMG_3699, with no conflicting information from the other documents.
-================================================================================
-
 Question: Is the person at maximum medical improvement?
 --------------------------------------------------------------------------------
 Individual Document Answers:
@@ -113,9 +29,231 @@ Synthesized Answer:
 
 2. Note any conflicts or discrepancies between documents: There are no conflicts or discrepancies as all documents indicate that information is not found in the provided context.
 
-3. Indicate confidence level in the synthesized answer: High
+3. Indicate confidence level in the synthesized answer: High.
+================================================================================
 
-Synthesized Answer: Information not found in the provided context.
+Question: What is the patient's work status?
+--------------------------------------------------------------------------------
+Individual Document Answers:
+
+Document IMG_3695:
+Information not found in the provided context.
+
+Document IMG_3696:
+Information not found in the provided context.
+
+Document IMG_3697:
+The patient's work status is that he claims his physical limitations prevent him from returning to the laborious setting.
+
+Document IMG_3698:
+Information not found in the provided context.
+
+Document IMG_3699:
+Information not found in the provided context.
+
+Document qme_demo:
+Information not found in the provided context.
+
+Synthesized Answer:
+Synthesized Answer:
+
+1. The patient's work status is that he claims his physical limitations prevent him from returning to a laborious work setting, as stated in Document IMG_3697. No conflicting information is present in the other documents, as they all indicate that information is not found in the provided context.
+
+2. There are no conflicts or discrepancies between documents, as only Document IMG_3697 provides relevant information regarding the patient's work status.
+
+3. Confidence level in the synthesized answer: High.
+================================================================================
+
+Question: If no, what treatment is being recommended?
+--------------------------------------------------------------------------------
+Individual Document Answers:
+
+Document IMG_3695:
+Information not found in the provided context.
+
+Document IMG_3696:
+Information not found in the provided context.
+
+Document IMG_3697:
+Information not found in the provided context.
+
+Document IMG_3698:
+Information not found in the provided context.
+
+Document IMG_3699:
+The treatment being recommended includes:
+
+1. Limited supportive medical treatment under the guidance of a treating medical physician, consistent with evidence-based medicine.
+2. Ongoing use of medications such as anti-inflammatory agents, muscle relaxants, neuromodulators, and potentially narcotic analgesics, administered through a medical physician skilled in chronic pain management.
+3. Acupuncture for chronic pain management, deemed medically reasonable and non-invasive.
+4. Corticosteroid injections (CSI) and/or platelet-rich plasma (PRP) injections at the left and/or right wrist, left and/or right elbow, or shoulder, administered consistent with evidence-based medicine (EBM) standards of care guidelines.
+5. Spinal injection protocols following EBM guidelines.
+6. Lumbar spine plain X-rays to determine suspected underlying skeletal pathologies contributing to low back pain (LBP).
+7. Chiropractic treatments following EBM, with spinal manipulation at/over C3 to 4-5 to 6 being strongly contraindicated, but impulses being reasonable at these levels.
+8. A provision for revision left shoulder re-surgery should symptoms worsen and become increasingly debilitating, determined by an orthopedic shoulder surgeon. 
+
+Additionally, further evaluation for compensatory right shoulder pain, unresponsive to conservative care, is also recommended.
+
+Document qme_demo:
+Information not found in the provided context.
+
+Synthesized Answer:
+1. **Comprehensive Answer:** The treatment being recommended includes:
+   - Limited supportive medical treatment under the guidance of a treating medical physician, consistent with evidence-based medicine.
+   - Ongoing use of medications such as anti-inflammatory agents, muscle relaxants, neuromodulators, and potentially narcotic analgesics, administered through a medical physician skilled in chronic pain management.
+   - Acupuncture for chronic pain management, deemed medically reasonable and non-invasive.
+   - Corticosteroid injections (CSI) and/or platelet-rich plasma (PRP) injections at the left and/or right wrist, left and/or right elbow, or shoulder, administered consistent with evidence-based medicine (EBM) standards of care guidelines.
+   - Spinal injection protocols following EBM guidelines.
+   - Lumbar spine plain X-rays to determine suspected underlying skeletal pathologies contributing to low back pain (LBP).
+   - Chiropractic treatments following EBM, with spinal manipulation at/over C3 to 4-5 to 6 being strongly contraindicated, but impulses being reasonable at these levels.
+   - A provision for revision left shoulder re-surgery should symptoms worsen and become increasingly debilitating, as determined by an orthopedic shoulder surgeon.
+   - Additionally, further evaluation for compensatory right shoulder pain, unresponsive to conservative care, is also recommended.
+
+2. **Conflicts or Discrepancies:** There are no conflicts or discrepancies between the documents regarding the recommended treatments. All relevant information is consistently found in Document IMG_3699 and Document IMG_3695 regarding further evaluation.
+
+3. **Confidence Level:** High
+================================================================================
+
+Question: Are there any medical restrictions suggested?
+--------------------------------------------------------------------------------
+Individual Document Answers:
+
+Document IMG_3695:
+Information not found in the provided context.
+
+Document IMG_3696:
+Information not found in the provided context.
+
+Document IMG_3697:
+Information not found in the provided context.
+
+Document IMG_3698:
+Yes, there are several medical restrictions suggested in the provided context. 
+
+For **Clerical/Modified Work** related to neck and upper back pathologies, the restrictions include:
+- No lifting over shoulder height.
+- Lifting to the level of shoulder not more than 5 lbs (2 kg) up to two times per hour.
+- Standing or walking with a 5-minute break at least every 20 minutes.
+- Sitting with a 5-minute break every 30 minutes (using an operator headset if extended phone operation).
+- No extremes of motion including extension or flexion.
+- No extremes of twisting or lateral rotation.
+- No climbing ladders.
+- Driving a car only up to 2 hours/day.
+- Possible use of a cervical collar with a change of position and stretching every 30 minutes.
+- Modify workstation or position to eliminate lifting away from the body or using twisting motions.
+
+For **Manual Work**:
+- Lifting over shoulder not more than 25 lbs (11 kg) up to 5 times/hour.
+- Lifting to the level of shoulder not more than 30 lbs (14 kg) up to 15 times/hour.
+- Standing or walking with a 10-minute break at least every 1-2 hours.
+- Sitting with a 10-minute break every 1-2 hours.
+- Extremes of flexion or extension allowed up to 20 times/hour.
+- Extremes of twisting allowed up to 16 times/hour.
+- Climbing ladders allowed up to 40 rungs times/hour.
+- Driving a car or light truck up to a full workday.
+- Driving a heavy truck up to 4 hours/day.
+
+For **Clerical/Modified Work** related to lower back/pelvic conditions:
+- Lifting with knees (with a straight back, no stooping) not more than 5 lbs (2 kg) up to 3 times/hour.
+- Squatting up to 4 times/hour.
+- Standing or walking with a 5-minute break at least every 20 minutes.
+- Sitting with a 5-minute break every 30 minutes.
+- No extremes of extension or flexion.
+- No extremes of twisting.
+- No climbing ladders.
+- Driving a car only up to 2 hours/day.
+
+For **Manual Work**:
+- Lifting with knees (with a straight back) not more than 25 lbs (11 kg) up to 15 times/hour.
+- Squatting up to 16 times/hour.
+- Standing or walking with a 10-minute break at least every 1-2 hours.
+- Sitting with a 10-minute break every 1-2 hours.
+- Extremes of flexion or extension allowed up to 12 times/hour.
+- Extremes of twisting allowed up to 16 times/hour.
+- Climbing ladders allowed up to 25 rungs, 6 times/hour.
+- Driving a car or light truck up to a full workday.
+- Driving a heavy truck up to 4 hours/day.
+
+For **Modified Work** related to forearm, wrist, and hand conditions:
+- Repetitive motion activities (with or without splint) not more than 4 times/hour.
+- Repetitive keying up to 15 keystrokes/min not more than 2 hours/day.
+- Gripping and using light tools (pens, scissors, etc.) with a 5-minute break at least every 20 minutes.
+- No pinching.
+- Driving a car up to 2 hours/day.
+- Light work up to 5 lbs (2 kg) three times/hour.
+- Avoidance of prolonged periods in wrist flexion or extension.
+
+For **Regular Work** (if not causing or aggravating disability):
+- Repetitive motion activities not more than 28 times/hour.
+- Repetitive keying up to 45 keystrokes/min plus 8 hours/day.
+- Gripping and using moderate tools.
+
+These restrictions are designed to accommodate individuals with disabling conditions in the specified areas.
+
+Document IMG_3699:
+Yes, there are medical restrictions suggested in the context. Specifically, it is stated that "spinal manipulation at/over C3 to 4-5 to 6 is strongly contraindicated." This indicates a restriction on performing spinal manipulation in that specific cervical region. Additionally, the context implies that further evaluation and potential surgical intervention for the right shoulder pain may be necessary if conservative care is unresponsive, suggesting a cautious approach to treatment until further assessments are made.
+
+Document qme_demo:
+Information not found in the provided context.
+
+Synthesized Answer:
+**Synthesized Answer:**
+
+Yes, there are several medical restrictions suggested in the context across multiple documents. 
+
+1. **Clerical/Modified Work** related to neck and upper back pathologies includes:
+   - No lifting over shoulder height.
+   - Lifting to the level of shoulder not more than 5 lbs (2 kg) up to two times per hour.
+   - Standing or walking with a 5-minute break at least every 20 minutes.
+   - Sitting with a 5-minute break every 30 minutes (using an operator headset if extended phone operation).
+   - No extremes of motion including extension or flexion.
+   - No extremes of twisting or lateral rotation.
+   - No climbing ladders.
+   - Driving a car only up to 2 hours/day.
+   - Possible use of a cervical collar with a change of position and stretching every 30 minutes.
+   - Modify workstation or position to eliminate lifting away from the body or using twisting motions.
+
+2. **Manual Work** restrictions include:
+   - Lifting over shoulder not more than 25 lbs (11 kg) up to 5 times/hour.
+   - Lifting to the level of shoulder not more than 30 lbs (14 kg) up to 15 times/hour.
+   - Standing or walking with a 10-minute break at least every 1-2 hours.
+   - Sitting with a 10-minute break every 1-2 hours.
+   - Extremes of flexion or extension allowed up to 20 times/hour.
+   - Extremes of twisting allowed up to 16 times/hour.
+   - Climbing ladders allowed up to 40 rungs times/hour.
+   - Driving a car or light truck up to a full workday.
+   - Driving a heavy truck up to 4 hours/day.
+
+3. **Clerical/Modified Work** related to lower back/pelvic conditions includes:
+   - Lifting with knees (with a straight back, no stooping) not more than 5 lbs (2 kg) up to 3 times/hour.
+   - Squatting up to 4 times/hour.
+   - Standing or walking with a 5-minute break at least every 20 minutes.
+   - Sitting with a 5-minute break every 30 minutes.
+   - No extremes of extension or flexion.
+   - No extremes of twisting.
+   - No climbing ladders.
+   - Driving a car only up to 2 hours/day.
+
+4. **Modified Work** related to forearm, wrist, and hand conditions includes:
+   - Repetitive motion activities (with or without splint) not more than 4 times/hour.
+   - Repetitive keying up to 15 keystrokes/min not more than 2 hours/day.
+   - Gripping and using light tools (pens, scissors, etc.) with a 5-minute break at least every 20 minutes.
+   - No pinching.
+   - Driving a car up to 2 hours/day.
+   - Light work up to 5 lbs (2 kg) three times/hour.
+   - Avoidance of prolonged periods in wrist flexion or extension.
+
+5. **Regular Work** (if not causing or aggravating disability) includes:
+   - Repetitive motion activities not more than 28 times/hour.
+   - Repetitive keying up to 45 keystrokes/min plus 8 hours/day.
+   - Gripping and using moderate tools.
+
+6. Additionally, it is noted that "spinal manipulation at/over C3 to 4-5 to 6 is strongly contraindicated," indicating a specific restriction on spinal manipulation in that cervical region.
+
+**Conflicts or Discrepancies:**
+There are no apparent conflicts between the documents regarding the medical restrictions suggested. Each document provides consistent information about the restrictions applicable to various conditions.
+
+**Confidence Level: High**
 ================================================================================
 
 Question: What is the diagnosis?
@@ -143,140 +281,11 @@ Information not found in the provided context.
 Synthesized Answer:
 Synthesized Answer:
 
-1. The diagnosis is a rotator cuff injury to the left shoulder, as stated in Document IMG_3695. 
-2. There are no conflicts or discrepancies between the documents regarding the diagnosis, as only Document IMG_3695 provides relevant information. The other documents (IMG_3696, IMG_3697, IMG_3698, IMG_3699, and qme_demo) indicate that information is not found in the provided context.
+1. The diagnosis is a rotator cuff injury to the left shoulder, as stated in Document IMG_3695. No conflicting information is present in the other documents, as they all indicate that information is not found in the provided context.
+
+2. There are no conflicts or discrepancies between the documents since only Document IMG_3695 provides a definitive diagnosis, while the others confirm the absence of relevant information.
+
 3. Confidence level in the synthesized answer: High.
-================================================================================
-
-Question: Are there any medical restrictions suggested?
---------------------------------------------------------------------------------
-Individual Document Answers:
-
-Document IMG_3695:
-Information not found in the provided context.
-
-Document IMG_3696:
-Information not found in the provided context.
-
-Document IMG_3697:
-Information not found in the provided context.
-
-Document IMG_3698:
-Yes, there are several medical restrictions suggested in the provided context. 
-
-For **Clerical/Modified Work** related to neck and upper back pathologies, the restrictions include:
-- No lifting over shoulder height.
-- Lifting to shoulder level not more than 5 lbs (2 kg) up to two times per hour.
-- Standing or walking with a 5-minute break at least every 20 minutes.
-- Sitting with a 5-minute break every 30 minutes (using an operator headset if extended phone operation).
-- No extremes of motion including extension or flexion.
-- No extremes of twisting or lateral rotation.
-- No climbing ladders.
-- Driving a car only up to 2 hours per day.
-- Possible use of a cervical collar with change of position and stretching every 30 minutes.
-- Modify workstation or position to eliminate lifting away from the body or using twisting motions.
-
-For **Manual Work**, the restrictions include:
-- Lifting over shoulder height not more than 25 lbs (11 kg) up to 5 times per hour.
-- Lifting to shoulder level up to 30 lbs (14 kg) not more than 15 times per hour.
-- Standing or walking with a 10-minute break at least every 1-2 hours.
-- Sitting with a 10-minute break every 1-2 hours.
-- Extremes of flexion or extension allowed up to 20 times per hour.
-- Extremes of twisting allowed up to 16 times per hour.
-- Climbing ladders allowed up to 40 rungs, 6 times per hour.
-- Driving a car or light truck up to a full workday.
-- Driving a heavy truck up to 4 hours per day.
-
-For **Clerical/Modified Work** related to lower back/pelvic conditions, the restrictions include:
-- Lifting with knees (with a straight back, no stooping) not more than 5 lbs (2 kg) up to 3 times per hour.
-- Squatting up to 4 times per hour.
-- Standing or walking with a 5-minute break at least every 20 minutes.
-- Sitting with a 5-minute break every 30 minutes.
-- No extremes of extension or flexion.
-- No extremes of twisting.
-- No climbing ladders.
-- Driving a car only up to 2 hours per day.
-
-For **Modified Work** related to forearm, wrist, and hand conditions, the restrictions include:
-- Repetitive motion activities (with or without splint) not more than 4 times per hour.
-- Repetitive keying up to 15 keystrokes/min not more than 2 hours per day.
-- Gripping and using light tools (pens, scissors, etc.) with a 5-minute break at least every 20 minutes.
-- No pinching.
-- Driving a car up to 2 hours per day.
-- Light work up to 5 lbs (2 kg) three times per hour.
-- Avoidance of prolonged periods in wrist flexion or extension.
-
-For **Regular Work**, the restrictions include:
-- Repetitive motion activities not more than 28 times per hour.
-- Repetitive keying up to 45 keystrokes/min plus per day.
-- Gripping and using moderate tools (pliers, etc.).
-
-These restrictions are designed to accommodate individuals with disabling conditions in the specified areas.
-
-Document IMG_3699:
-Yes, there are medical restrictions suggested in the context. Specifically, spinal manipulation at/over C3 to 4-5 to 6 is strongly contraindicated. Additionally, the ongoing use of medications should be administered through a medical physician skilled in chronic pain management, indicating a restriction on self-administration of these medications.
-
-Document qme_demo:
-Information not found in the provided context.
-
-Synthesized Answer:
-**Synthesized Answer:**
-
-Yes, there are several medical restrictions suggested in the provided context. The restrictions vary based on specific conditions and types of work:
-
-1. **Clerical/Modified Work** (Neck and Upper Back Pathologies):
-   - No lifting over shoulder height.
-   - Lifting to shoulder level not more than 5 lbs (2 kg) up to two times per hour.
-   - Standing or walking with a 5-minute break at least every 20 minutes.
-   - Sitting with a 5-minute break every 30 minutes (using an operator headset if extended phone operation).
-   - No extremes of motion, including extension or flexion.
-   - No extremes of twisting or lateral rotation.
-   - No climbing ladders.
-   - Driving a car only up to 2 hours per day.
-   - Possible use of a cervical collar with a change of position and stretching every 30 minutes.
-   - Modify workstation or position to eliminate lifting away from the body or using twisting motions.
-
-2. **Manual Work**:
-   - Lifting over shoulder height not more than 25 lbs (11 kg) up to 5 times per hour.
-   - Lifting to shoulder level up to 30 lbs (14 kg) not more than 15 times per hour.
-   - Standing or walking with a 10-minute break at least every 1-2 hours.
-   - Sitting with a 10-minute break every 1-2 hours.
-   - Extremes of flexion or extension allowed up to 20 times per hour.
-   - Extremes of twisting allowed up to 16 times per hour.
-   - Climbing ladders allowed up to 40 rungs, 6 times per hour.
-   - Driving a car or light truck up to a full workday.
-   - Driving a heavy truck up to 4 hours per day.
-
-3. **Clerical/Modified Work** (Lower Back/Pelvic Conditions):
-   - Lifting with knees (with a straight back, no stooping) not more than 5 lbs (2 kg) up to 3 times per hour.
-   - Squatting up to 4 times per hour.
-   - Standing or walking with a 5-minute break at least every 20 minutes.
-   - Sitting with a 5-minute break every 30 minutes.
-   - No extremes of extension or flexion.
-   - No extremes of twisting.
-   - No climbing ladders.
-   - Driving a car only up to 2 hours per day.
-
-4. **Modified Work** (Forearm, Wrist, and Hand Conditions):
-   - Repetitive motion activities (with or without splint) not more than 4 times per hour.
-   - Repetitive keying up to 15 keystrokes/min not more than 2 hours per day.
-   - Gripping and using light tools (pens, scissors, etc.) with a 5-minute break at least every 20 minutes.
-   - No pinching.
-   - Driving a car up to 2 hours per day.
-   - Light work up to 5 lbs (2 kg) three times per hour.
-   - Avoidance of prolonged periods in wrist flexion or extension.
-
-5. **Regular Work**:
-   - Repetitive motion activities not more than 28 times per hour.
-   - Repetitive keying up to 45 keystrokes/min plus per day.
-   - Gripping and using moderate tools (pliers, etc.).
-
-Additionally, spinal manipulation at/over C3 to 4-5 to 6 is strongly contraindicated, and the ongoing use of medications should be administered through a medical physician skilled in chronic pain management, indicating a restriction on self-administration of these medications.
-
-**Conflicts or Discrepancies:**
-There are no conflicts or discrepancies between the documents regarding the existence of medical restrictions. All relevant documents consistently indicate that medical restrictions are suggested.
-
-**Confidence Level: High**
 ================================================================================
 
 Question: What is the causation?
@@ -284,10 +293,10 @@ Question: What is the causation?
 Individual Document Answers:
 
 Document IMG_3695:
-The causation identified in the context is a specific acute, macrotraumatic mechanical injury of February 9, 2021, causing what appears to be a rotator cuff injury to the left shoulder. This injury arose from and occurred during the injured worker's usual and customary employment at Alton Management Corporation while awkwardly manipulating a lawnmower. Additionally, the claims for cumulative injuries to the neck, both shoulders, both wrists, mid-back, and lower back are consistent with repetitive arduous physical labor, resulting in wear and tear on the soft tissues and articulations over the span of the worker's employment from April 1, 1998, through February 9, 2021.
+The causation identified in the document is that the injured worker sustained a specific acute, macrotraumatic, mechanical injury to the left shoulder on February 9, 2021, while awkwardly manipulating a lawnmower during his usual and customary employment at Alton Management Corporation. This injury is associated with the Arising Out of Employment (AOE) doctrine. Additionally, the document suggests that cumulative injuries to the neck, both shoulders, both wrists, mid-back, and lower back are consistent with repetitive arduous physical labor over the course of his employment from April 1, 1998, through February 9, 2021, resulting in wear and tear on the soft tissues and articulations.
 
 Document IMG_3696:
-The causation suggested in the context is that the lifting upward of the handle of the lawnmower and awkwardly pivoting to the right with the right arm may have contributed to the injuries sustained. Additionally, the temporal onset of traumatic injuries involving the left shoulder girdle appears to have been immediate, supporting a cumulative musculoskeletal injury, which is viewed as an "aggravation" injury in the context of reasonable medical probability.
+The causation suggested in the context is that the lifting upward of the handle of the lawnmower and awkwardly pivoting to the right may have contributed to the injuries sustained by the injured worker. Additionally, it is noted that the temporal onset of traumatic injuries involving the left shoulder girdle appears to have been immediate, supporting the notion of acute musculoskeletal injury, and it is more likely than not that these injuries were not superimposed upon pre-existing tissue degeneration at the left shoulder girdle, representing an "aggravation" injury.
 
 Document IMG_3697:
 The causation is that the nature of Mr. Grande's employment with Alton Management Corporation caused and contributed to the specific injury as known, as well as caused and contributed to the injuries to his neck, upper back, shoulders, gluteal area, and supporting tissues, as well as both wrists, forearms, and elbows.
@@ -304,11 +313,13 @@ Information not found in the provided context.
 Synthesized Answer:
 **Synthesized Answer:**
 
-The causation identified across the documents relates to a specific acute, macrotraumatic mechanical injury that occurred on February 9, 2021, resulting in a rotator cuff injury to the left shoulder. This injury arose during the injured worker's employment at Alton Management Corporation while awkwardly manipulating a lawnmower. Additionally, there are claims of cumulative injuries affecting the neck, both shoulders, both wrists, mid-back, and lower back, attributed to the repetitive arduous physical labor performed by the worker from April 1, 1998, through February 9, 2021. The act of lifting the lawnmower's handle and awkwardly pivoting to the right with the right arm is suggested to have contributed to these injuries, with the onset of the left shoulder injuries being immediate and indicative of a cumulative musculoskeletal injury, viewed as an "aggravation" injury in reasonable medical probability.
+The causation identified across the documents indicates that the injured worker sustained a specific acute, macrotraumatic, mechanical injury to the left shoulder on February 9, 2021, while awkwardly manipulating a lawnmower during his employment at Alton Management Corporation. This incident is associated with the Arising Out of Employment (AOE) doctrine. The act of lifting upward on the handle of the lawnmower and awkwardly pivoting to the right is suggested to have contributed to these injuries. The temporal onset of the traumatic injuries to the left shoulder girdle was immediate, supporting the notion of an acute musculoskeletal injury. It is noted that these injuries were likely not superimposed upon pre-existing tissue degeneration, indicating they represent an "aggravation" injury.
+
+Additionally, the nature of the worker's employment contributed to cumulative injuries affecting the neck, both shoulders, both wrists, mid-back, lower back, upper back, gluteal area, and supporting tissues, as well as both forearms and elbows, consistent with repetitive arduous physical labor performed from April 1, 1998, through February 9, 2021, resulting in wear and tear on the soft tissues and articulations.
 
 **Conflicts or Discrepancies:**
-There are no significant conflicts or discrepancies between the documents. All documents consistently attribute the causation of injuries to the nature of the worker's employment and the specific actions taken while manipulating the lawnmower.
+There are no significant conflicts or discrepancies between the documents. All documents consistently indicate that the injuries are related to the worker's employment and the specific incident involving the lawnmower.
 
-**Confidence Level:** High
+**Confidence Level: High**
 ================================================================================
 

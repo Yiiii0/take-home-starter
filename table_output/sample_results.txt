@@ -1,0 +1,148 @@
+Extracted 87 entries from the document
+
+First 10 entries:
+================================================================================
+
+Entry 1:
+Date: 05/19/19
+Doctor: John C. Austin, M.D.
+Section: History
+Description: Examination Date 
+Examination  Location  THOMPSON, MARK  
+4248  Alpha  St 
+Medicity   ,  NY 10001 
+05/19/1970  
+012-34-5678  
+WC987654321  
+06/21/202 4 
+Cleaning Services  inc             
+Janitor  
+Cervical  Spine,  Lumbar  Spine,  Right  Shoulder, 
+Left Knee, Left Ankle  
+07/24/2024  
+3142  East P...
+Source: Page 1
+--------------------------------------------------------------------------------
+
+Entry 2:
+Date: 07/24/20
+Doctor: John C. Austin, M.D.
+Section: History
+Description: Examination Date 
+Examination  Location  THOMPSON, MARK  
+4248  Alpha  St 
+Medicity   ,  NY 10001 
+05/19/1970  
+012-34-5678  
+WC987654321  
+06/21/202 4 
+Cleaning Services  inc             
+Janitor  
+Cervical  Spine,  Lumbar  Spine,  Right  Shoulder, 
+Left Knee, Left Ankle  
+07/24/2024  
+3142  East P...
+Source: Page 1
+--------------------------------------------------------------------------------
+
+Entry 3:
+Date: 06/13/20
+Doctor: John C. Austin, M.D.
+Section: History
+Description: Examination Date 
+Examination  Location  THOMPSON, MARK  
+4248  Alpha  St 
+Medicity   ,  NY 10001 
+05/19/1970  
+012-34-5678  
+WC987654321  
+06/21/202 4 
+Cleaning Services  inc             
+Janitor  
+Cervical  Spine,  Lumbar  Spine,  Right  Shoulder, 
+Left Knee, Left Ankle  
+07/24/2024  
+3142  East P...
+Source: Page 1
+--------------------------------------------------------------------------------
+
+Entry 4:
+Date: 07/21/20
+Doctor: Unknown
+Section: History
+Description: History  of the Injury  
+Mr. Thompson is a 54-year-old right-handed male  janitor  who stated  that he was employed  with 
+Cleaning Services Inc since approximately 2018 or 2019.   2  
+ Before I  began the  examination, the applicant was  informed that this  evaluation was  being  done 
+exclusively ...
+Source: Page 2
+--------------------------------------------------------------------------------
+
+Entry 5:
+Date: 10/21/20
+Doctor: Dr. David Smith
+Section: Unknown
+Description: 3  
+ pain-relieving  medication and  he was provided  with a pair of  crutches. He  was placed  off work  for 
+approximately  1-2 weeks.   Mr. Thompson  opted to  retain the services of an attorney and  he was then referred for medical 
+care at Concentra. He  was initially  evaluated at  Concentra  ...
+Source: Page 3
+--------------------------------------------------------------------------------
+
+Entry 6:
+Date: 10/21/20
+Doctor: Thomas Schweller, MD
+Section: Unknown
+Description: 3  
+ pain-relieving  medication and  he was provided  with a pair of  crutches. He  was placed  off work  for 
+approximately  1-2 weeks.   Mr. Thompson  opted to  retain the services of an attorney and  he was then referred for medical 
+care at Concentra. He  was initially  evaluated at  Concentra  ...
+Source: Page 3
+--------------------------------------------------------------------------------
+
+Entry 7:
+Date: 10/21/20
+Doctor: spine  surgeon  Dr. Maneesh 
+Bawa
+Section: Unknown
+Description: 3  
+ pain-relieving  medication and  he was provided  with a pair of  crutches. He  was placed  off work  for 
+approximately  1-2 weeks.   Mr. Thompson  opted to  retain the services of an attorney and  he was then referred for medical 
+care at Concentra. He  was initially  evaluated at  Concentra  ...
+Source: Page 3
+--------------------------------------------------------------------------------
+
+Entry 8:
+Date: 08/07/20
+Doctor: Dr. David Smith
+Section: Unknown
+Description: 3  
+ pain-relieving  medication and  he was provided  with a pair of  crutches. He  was placed  off work  for 
+approximately  1-2 weeks.   Mr. Thompson  opted to  retain the services of an attorney and  he was then referred for medical 
+care at Concentra. He  was initially  evaluated at  Concentra  ...
+Source: Page 3
+--------------------------------------------------------------------------------
+
+Entry 9:
+Date: 08/07/20
+Doctor: Thomas Schweller, MD
+Section: Unknown
+Description: 3  
+ pain-relieving  medication and  he was provided  with a pair of  crutches. He  was placed  off work  for 
+approximately  1-2 weeks.   Mr. Thompson  opted to  retain the services of an attorney and  he was then referred for medical 
+care at Concentra. He  was initially  evaluated at  Concentra  ...
+Source: Page 3
+--------------------------------------------------------------------------------
+
+Entry 10:
+Date: 08/07/20
+Doctor: spine  surgeon  Dr. Maneesh 
+Bawa
+Section: Unknown
+Description: 3  
+ pain-relieving  medication and  he was provided  with a pair of  crutches. He  was placed  off work  for 
+approximately  1-2 weeks.   Mr. Thompson  opted to  retain the services of an attorney and  he was then referred for medical 
+care at Concentra. He  was initially  evaluated at  Concentra  ...
+Source: Page 3
+--------------------------------------------------------------------------------
+

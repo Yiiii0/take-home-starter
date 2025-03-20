@@ -105,6 +105,9 @@ pip install -r requirements.txt
      ```
      OPENAI_API_KEY=your_api_key_here
      ```
+     - set up enviornment variable
+      - $env:PATH += ";C:\Program Files\Tesseract-OCR"                                                                                                       
+      - $env:PATH += ";C:\Program Files\Release-24.08.0-0\poppler-24.08.0\Library\bin"  
 
 ### Running the Pipeline
 
